@@ -1,2 +1,6 @@
 .test.js
 example
+.circleci
+.github
+.eslintignore
+.eslintrc
